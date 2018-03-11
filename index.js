@@ -6,6 +6,7 @@ YellowBox.ignoreWarnings([
   'Warning: componentWillReceiveProps is deprecated',
   'Module RCTImageLoader requires',
   'Possible Unhandled Promise Rejection',
+  'Class RCTCxxModule was not exported',
 ]);
 
 AppRegistry.registerComponent('desafio2', () => App);
